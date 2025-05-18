@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>We're committed to putting the power of cryptocurrency in your hands sensibly and responsibly.</p>
           </div>
         `
         break
